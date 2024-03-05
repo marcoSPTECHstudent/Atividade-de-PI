@@ -1,0 +1,28 @@
+.A {
+background-color: #f1cd00;
+width : 500px;
+height: 500px;
+}
+
+.B {
+background-color: #90ee90;
+height :50%;
+width :50%;
+}
+
+.C{
+background-color: red;
+font-size: 25px;
+}
+
+.D{
+width: 50%;
+height:50vh;
+background-color: rgb(173, 216, 230);
+}
+
+.E{
+width: 75vw;
+height: 50%;
+background-color: rgb(255,0,0);
+}
